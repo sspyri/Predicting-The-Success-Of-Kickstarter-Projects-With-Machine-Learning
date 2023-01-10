@@ -1,7 +1,7 @@
 # Predicting The Success Of Kickstarter Projects With Machine Learning
 ## Written in Python
 
-**Goal**: <br>*Will a kickstarter project will be successful or not.<br>
+**Goal**: <br>*Will a kickstarter project be successful or not.<br>
            *Trying to get the most accurate results.*<br>
            Expanded goal, was to find which classification model would be the most accurate and best for our problem.*
 
